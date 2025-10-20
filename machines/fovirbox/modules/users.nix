@@ -5,7 +5,7 @@
     openssh.authorizedKeys.keys = [
       "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKOLstXknHcwZae+PSiXq1Wbz8Zmi4HF0UdWGNLMhuAJ fovir@disroot.org"
       "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBFvfwOrz294r8TnRxnoHFHdg0ZghU5JoXExPouLIrHp fovir@disroot.org"
-      "md5sum id_ed25519 6020ff29ec245114b57436a97eeef3ea  id_ed25519"
+      "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMuIeJ+KEC5IUBvZ3AG/nfXvxPz4KoOVUj2SY44U1apc fovir@disroot.org"
     ];
   };
 }
